@@ -1,0 +1,20 @@
+{
+  "companyId": "503e819b4fc10s7b2a914a10",
+  "name": "Sample Campaign",
+  "description": "Description",
+  "active": true,
+  "appTransferPhone": "+12133541114",
+  "companyTransferPhone": "+10844461313",
+  "apiKey": "iop7551b87a-4boa-16fe-b3w1-6dde36e2e819",
+  "twilioAccountSid": "BCc40ad92d868297fbe3c315711ff26830",
+  "twilioAuthToken": "77691115ce4bc5cb47c62edab9cf1050",
+  "twilioInboundIvrId": "FS28047ee98d2e3c59816ba77063cb1894",
+  "twilioScheduledIvrId": "FSc129r17fc0a96af91ae648e69059de58",
+  "twilioOutboundIvrId": "FWS19f0cea929be87cf09a9692f4d89bd75",
+  "appOutTransferPhone": "+13813435186",
+  "createdDate": "2020-03-02T19:31:08.642Z",
+  "providerId": "twilio",
+  "minTransferDuration": 30,
+  "agentName": "John",
+  "agentPhoneNumber": "+12211545987"
+}

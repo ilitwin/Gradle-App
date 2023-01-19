@@ -1,0 +1,7 @@
+{
+  "interactionId" : 10,
+  "interactionTriggerTime": null,
+  "interactionInFlightTime": null,
+  "endTime": null,
+  "_class" : "com.app.core.api.model.collection.LeadCampaignFlow"
+}
